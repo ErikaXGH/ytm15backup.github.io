@@ -251,7 +251,7 @@ metaColorElm.content = "#000000";
 }
 }
 
-APIbaseURL = "https://invidious.nerdvpn.de/";
+APIbaseURL = "https://piped.wireway.ch/";
 APIbaseURLWatch = "https://inv.nadeko.net/";
 
 playerVideoId = "e";
